@@ -3,7 +3,7 @@ Version:	37763
 Release:	2
 Summary:	Summary of mathematical symbols available in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/maths-symbols
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/maths-symbols
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/maths-symbols.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/maths-symbols.doc.r%{version}.tar.xz
